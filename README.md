@@ -7,7 +7,7 @@
 
 I'm a Back-end Developer :smile:
 
-I Love code, read and games , i like too much to discover new technologies and dive deep in solving problems.
+I Love code, read and games , i like too much to discover new technologies , break down barriers and develop challenges.
 
 ## My specilities:
 
@@ -15,7 +15,7 @@ I Love code, read and games , i like too much to discover new technologies and d
 
 ### Backend: <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/> 
 
-## What I don't know, give me a few days 😁
+## In learning process 😁
 
 [![Juldenor github stats](https://github-readme-stats.vercel.app/api?username=Juldenor&show_icons=true&title_color=fff&icon_color=37aaff&text_color=f8f8f2&bg_color=171c24&count_private=true)](https://github.com/peguimasid)
 
